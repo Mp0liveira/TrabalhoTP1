@@ -310,7 +310,7 @@
 1687797953 c:\users\marco\desktop\projetotp1-master\sqlite3.h
 	<stdarg.h>
 
-1687797953 source:c:\users\marco\desktop\projetotp1-master\dominios.cpp
+1687805497 source:c:\users\marco\desktop\projetotp1-master\dominios.cpp
 	"Dominios.h"
 
 1687800858 source:c:\users\marco\desktop\projetotp1-master\main.cpp
@@ -334,4 +334,10 @@
 1687797953 c:\users\marco\desktop\projetotp1-master\testes.h
 	"Dominios.h"
 	"Entidades.h"
+
+1687805565 source:c:\users\marco\desktop\projetotp1-master\controladoras.cpp
+	"Controladoras.h"
+	"Dominios.h"
+	"Entidades.h"
+	"acessoDB.h"
 
