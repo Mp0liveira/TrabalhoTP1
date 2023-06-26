@@ -1,4 +1,4 @@
-//SERVI�O
+//SERVICO
 #include "Controladoras.h"
 #include "Dominios.h"
 #include "Entidades.h"
